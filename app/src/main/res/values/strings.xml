@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Будник Анна, Лабораторная 6</string>
+
+    <string name="journal_empty">Нет журнала</string>
+    <string name="journal_title">Журнал готов</string>
+    <string name="hint">Идентификатор журнала</string>
+    <string name="download">Загрузить</string>
+    <string name="watch">Просмотреть</string>
+    <string name="delete">Удалить</string>
+
+    <string name="alert_dialog_success">Успех</string>
+    <string name="alert_dialog_error">Ошибка</string>
+
+    <string name="alert_dialog_delete">Файл удален</string>
+    <string name="alert_dialog_nofile">Файл не найден</string>
+    <string name="alert_dialog_fileload">Файл загружен успешно</string>
+    <string name="alert_dialog_fillallfields">Заполните полсе ввода журнала</string>
+
+    <string name="popup_title">Инструкция</string>
+    <string name="popup_text">Введите идентификатор журнала и нажмите «Загрузить». Когда загрузка завершится, появится возможность просмотреть или удалить выпуск.</string>
+    <string name="popup_checkobx">Больше не показывать</string>
+
+    <string name="author">Будник Анна Андреевна</string>
+    <string name="authorTitle">Разработала</string>
+    <string name="authorBtn">Разработчик</string>
+</resources>
